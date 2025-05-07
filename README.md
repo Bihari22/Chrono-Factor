@@ -40,7 +40,7 @@ chronofactor/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/chronofactor.git
+   git clone https://github.com/bihari22/chronofactor.git
 ````
 
 2. Navigate to the project folder:
